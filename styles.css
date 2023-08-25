@@ -23,7 +23,7 @@ body{
 	background-color: rgb(255, 255, 255); 
 	padding:5px 5px; 
 }
-ul>li{
+ul>li, a{
 	list-style-type: none;
 	text-decoration: none;
 }
